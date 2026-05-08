@@ -147,10 +147,7 @@
         ]
     },
     "versions": {
-        "import": [
-            "06585a170",
-            "f1ef4"
-        ],
+        "import": [],
         "native": []
     },
     "redirect": [],
